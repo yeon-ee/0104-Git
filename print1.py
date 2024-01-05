@@ -1,2 +1,2 @@
 def print1():
-    print('')
+    print('와! 와빅!')
